@@ -1,9 +1,18 @@
+
+
+
 {
   "subtitles": [
     {
       "id": "en",
       "lang": "English",
       "url": "https://mgstatics.xyz/subtitle/5bc995ed2fdf3b17c9ea673ab9e5f877/5bc995ed2fdf3b17c9ea673ab9e5f877.vtt"
+    },
+    {
+      "id": "es",
+      "lang": "Spanish",
+      "url": "https://example.com/subtitles/movie1-es.vtt"
     }
   ]
 }
+
