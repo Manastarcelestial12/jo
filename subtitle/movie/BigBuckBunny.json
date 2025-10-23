@@ -1,15 +1,14 @@
 {
   "subtitles": [
     {
-      "id": "en",
-      "lang": "English",
+      "lang": "en",
       "url": "https://mgstatics.xyz/subtitle/5bc995ed2fdf3b17c9ea673ab9e5f877/5bc995ed2fdf3b17c9ea673ab9e5f877.vtt"
     },
     {
-      "id": "es",
-      "lang": "Spanish",
+      "lang": "es",
       "url": "https://raw.githubusercontent.com/Manastarcelestial12/jo/refs/heads/main/5bc995ed2fdf3b17c9ea673ab9e5f877.srt"
     }
   ]
 }
+
 
