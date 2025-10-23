@@ -2,7 +2,17 @@
   "streams": [
     {
       "availability": 1,
-      "url": "https://oppai-str.shoujo-h.org/2022/Eroriman/E04/2160/manifest.mpd"
+      "url": "https://oppai-str.shoujo-h.org/2022/Eroriman/E04/2160/manifest.mpd",
+      "subtitles": [
+        {
+          "lang": "en",
+          "url": "https://mgstatics.xyz/subtitle/5bc995ed2fdf3b17c9ea673ab9e5f877/5bc995ed2fdf3b17c9ea673ab9e5f877.vtt"
+        },
+        {
+          "lang": "es",
+          "url": "https://raw.githubusercontent.com/Manastarcelestial12/jo/refs/heads/main/5bc995ed2fdf3b17c9ea673ab9e5f877.srt"
+        }
+      ]
     }
   ]
 }
