@@ -1,6 +1,3 @@
-
-
-
 {
   "subtitles": [
     {
@@ -11,7 +8,7 @@
     {
       "id": "es",
       "lang": "Spanish",
-      "url": "https://example.com/subtitles/movie1-es.vtt"
+      "url": "https://raw.githubusercontent.com/Manastarcelestial12/jo/refs/heads/main/5bc995ed2fdf3b17c9ea673ab9e5f877.srt"
     }
   ]
 }
