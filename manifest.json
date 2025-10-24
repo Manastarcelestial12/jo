@@ -1,7 +1,7 @@
 {
-  "id": "com.st.testsub",
+  "id": "com.st.tetsub",
   "version": "0.0.1",
-  "name": "NowRAYVle",
+  "name": "NowRVle",
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream", "subtitle"],
   "types": ["movie"],
